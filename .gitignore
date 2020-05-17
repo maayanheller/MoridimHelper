@@ -1,2 +1,4 @@
 venv
 .idea
+/Scripts/secrets.py
+/__pycache__/
